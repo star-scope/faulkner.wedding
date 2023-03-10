@@ -33,6 +33,7 @@ main {
   border-radius: 100px;
   max-width: 100px;
   max-height: 100px;
+  z-index: 1;
 }
 
 a {
@@ -82,6 +83,7 @@ section {
   margin-bottom: 10px;
   max-width: 500px;
   transition: .2s;
+  z-index: 1;
 }
 
 .button:hover {
@@ -95,7 +97,6 @@ section {
 
 #img1 {
   position: absolute;
-  z-index: -1;
   top: -15%;
   align-self: center;
   justify-self: center;
@@ -103,7 +104,6 @@ section {
 
 #img2 {
   position: absolute;
-  z-index: -1;
   top: 41.71%;
   align-self: center;
   justify-self: center;
@@ -132,6 +132,10 @@ section {
 
       #img2 {
           max-width: 100%;
+      }
+
+      #buttonBottom {
+        margin-bottom: 100px;
       }
 
       #spacer {

@@ -16,7 +16,7 @@ function Home() {
             <a class="button" href="http://maps.apple.com/?daddr=1848+RICH+GAP+ROAD,+30512&dirflg=d&t=m" target="blank"><h3>DIRECTIONS TO VENUE</h3></a>
             <div id="spacer"></div>
             <a class="button" href="https://starscope.notion.site/WEDDING-FAQ-Caleb-Mykala-841a34e70b2c4338a4b7ec7c927d339e" target="blank"><h3>FAQ</h3></a>
-            <a class="button" href="mailto:caleb.mykala@faulkner.wedding?subject=Wedding%20Question" target="blank"><h3>CONTACT</h3></a>
+            <a class="button" id="buttonBottom" href="mailto:caleb.mykala@faulkner.wedding?subject=Wedding%20Question" target="blank"><h3>CONTACT</h3></a>
         </section>
         <img id="img2" src="images/petal2.png"></img>
     </body>
