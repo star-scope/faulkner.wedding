@@ -1,4 +1,4 @@
-# [faulkner.wedding](https://faulkner.wedding)
+# [FAULKNER.WEDDING](https://faulkner.wedding)
 
 ![preview](public/images/faulkner.wedding.png)
 
