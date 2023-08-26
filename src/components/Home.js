@@ -13,6 +13,7 @@ function Home() {
             <h1>11/18/2023 | MCDOWALL ACRES</h1>
             <a class="button" href="https://dwebmqnso0i.typeform.com/to/P9zqimtI"><h3>RSVP</h3></a>
             <a class="button" href="https://cash.app/$CalebMykalaFaulkner" target="blank"><h3>FUND OUR HONEYMOON</h3></a>
+            <a class="button" href="https://www.amazon.com/wedding/share/calebandmykala" target="blank"><h3>REGISTRY</h3></a>
             <a class="button" href="http://maps.apple.com/?daddr=1848+RICH+GAP+ROAD,+30512&dirflg=d&t=m" target="blank"><h3>DIRECTIONS TO VENUE</h3></a>
             <div id="spacer"></div>
             <a class="button" href="https://starscope.notion.site/WEDDING-FAQ-Caleb-Mykala-841a34e70b2c4338a4b7ec7c927d339e" target="blank"><h3>FAQ</h3></a>
