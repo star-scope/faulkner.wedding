@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.23816e18.css",
-    "main.js": "/static/js/main.a6a9ba51.js",
-    "static/js/787.3e963ec3.chunk.js": "/static/js/787.3e963ec3.chunk.js",
-    "static/media/ubuntu.ttf": "/static/media/ubuntu.50114233a7432c29c43d.ttf",
-    "static/media/britney.otf": "/static/media/britney.2241d5d48bfddb50cffe.otf",
-    "index.html": "/index.html",
-    "main.23816e18.css.map": "/static/css/main.23816e18.css.map",
-    "main.a6a9ba51.js.map": "/static/js/main.a6a9ba51.js.map",
-    "787.3e963ec3.chunk.js.map": "/static/js/787.3e963ec3.chunk.js.map"
+    "main.css": "/faulkner.wedding/static/css/main.9cec66fc.css",
+    "main.js": "/faulkner.wedding/static/js/main.72eb8995.js",
+    "static/js/787.3e963ec3.chunk.js": "/faulkner.wedding/static/js/787.3e963ec3.chunk.js",
+    "static/media/ubuntu.ttf": "/faulkner.wedding/static/media/ubuntu.50114233a7432c29c43d.ttf",
+    "static/media/britney.otf": "/faulkner.wedding/static/media/britney.2241d5d48bfddb50cffe.otf",
+    "index.html": "/faulkner.wedding/index.html",
+    "main.9cec66fc.css.map": "/faulkner.wedding/static/css/main.9cec66fc.css.map",
+    "main.72eb8995.js.map": "/faulkner.wedding/static/js/main.72eb8995.js.map",
+    "787.3e963ec3.chunk.js.map": "/faulkner.wedding/static/js/787.3e963ec3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.23816e18.css",
-    "static/js/main.a6a9ba51.js"
+    "static/css/main.9cec66fc.css",
+    "static/js/main.72eb8995.js"
   ]
 }
